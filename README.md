@@ -3,7 +3,7 @@
 Sou um **Engenheiro de Software Fullstack** apaixonado por criar soluções inovadoras com código limpo e eficiente. Trabalho com desenvolvimento web, APIs e interfaces modernas, sempre buscando aprender e compartilhar conhecimento. 🚀
 
 ## 🛠 Tech Stack
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,typescript,redux,mongodb,graphql" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,typescript,redux,mongodb,graphql,jest" alt="Tech Stack" />
 
 ## 🌟 Sobre Mim
 - 🔭 Atualmente desenvolvendo projetos em Next.js
