@@ -12,7 +12,7 @@ Sou um **Engenheiro de Software Fullstack** apaixonado por criar soluções inov
 - 📫 Contato: [contato@weslleymiranda.dev](mailto:seu.email@example.com)
 
 ## 🔥 Streak
-![Streak](https://streak-stats.demolab.com?user=weslleymirandadev&theme=dracula)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=weslleymirandadev&theme=dracula)
 
 ## 📊 Estatísticas
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=weslleymirandadev&show_icons=true&theme=dracula)
