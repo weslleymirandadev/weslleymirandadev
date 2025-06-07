@@ -4,7 +4,7 @@ Sou um **Engenheiro de Software Fullstack** apaixonado por criar soluções inov
 
 ## 🛠 Tech Stack
 <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,typescript,redux,mongodb,graphql,jest,tailwindcss,redis" alt="Tech Stack" />
-<img src="https://skillicons.dev/icons?i=vite,electron,python,postgresql,docker,kubernetes" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=vite,electron,python,postgresql,docker,kubernetes,c,rust,java,aws" alt="Tech Stack" />
 
 ## 🌟 Sobre Mim
 - 🔭 Atualmente desenvolvendo projetos em Next.js
