@@ -1,6 +1,6 @@
 # Olá, eu sou Weslley! 👋
 
-Sou um **Engenheiro de Software Fullstack** apaixonado por criar soluções inovadoras com código limpo e eficiente. Trabalho com desenvolvimento web, APIs e interfaces modernas, sempre buscando aprender e compartilhar conhecimento. 🚀
+Sou um **Engenheiro de Software Fullstack** apaixonado por criar soluções web, mobile e desktop. Trabalho com desenvolvimento web, APIs e interfaces modernas, sempre buscando aprender e compartilhar conhecimento. 🚀
 
 ## 🛠 Tech Stack
 <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,typescript,redux,mongodb,graphql,jest,tailwindcss,redis" alt="Tech Stack" />
