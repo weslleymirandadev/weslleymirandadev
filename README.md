@@ -25,6 +25,3 @@ Sou um **Engenheiro de Software Fullstack** apaixonado por criar soluções web,
 ## 📬 Conecte-se comigo
 [<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>](https://www.linkedin.com/in/weslley-miranda/)
 
----
-
-*"Construindo o futuro, uma linha de código por vez."* 💻
