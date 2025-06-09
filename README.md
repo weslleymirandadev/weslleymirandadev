@@ -4,11 +4,11 @@ Sou um **Engenheiro de Software Fullstack** apaixonado por criar soluções web,
 
 ## 🛠 Tech Stack
 <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,typescript,redux,mongodb,graphql,vitest,tailwindcss,redis" alt="Tech Stack" />
-<img src="https://skillicons.dev/icons?i=vite,electron,python,postgresql,docker,kubernetes,c,rust,java,aws" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=vite,electron,python,postgresql,docker,kubernetes,c,rust,solidity,aws" alt="Tech Stack" />
 
 ## 🌟 Sobre Mim
 - 🔭 Atualmente desenvolvendo projetos em Next.js
-- 🌱 Aprendendo GraphQL
+- 🌱 Aprendendo Solidity (Web3)
 - 💡 Apaixonado por código, robótica e elétrica
 - 📫 Contato: [contato@weslleymiranda.dev](mailto:seu.email@example.com)
 
