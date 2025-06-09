@@ -3,7 +3,7 @@
 Sou um **Engenheiro de Software Fullstack** apaixonado por criar soluções web, mobile e desktop. Trabalho com desenvolvimento web, APIs e interfaces modernas, sempre buscando aprender e compartilhar conhecimento. 🚀
 
 ## 🛠 Tech Stack
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,typescript,redux,mongodb,graphql,jest,tailwindcss,redis" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,typescript,redux,mongodb,graphql,vitest,tailwindcss,redis" alt="Tech Stack" />
 <img src="https://skillicons.dev/icons?i=vite,electron,python,postgresql,docker,kubernetes,c,rust,java,aws" alt="Tech Stack" />
 
 ## 🌟 Sobre Mim
