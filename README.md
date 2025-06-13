@@ -10,7 +10,8 @@ Engenheiro de Software Fullstack especializado em blockchain (Solidity, DApps) e
 
 ## 🏆 Projetos em Destaque
 > Veja todos no [meu portifólio](https://weslleymiranda.dev)!
-- **[Briatori Essence]**: Uma perfumaria feita com muito carinho (visite [aqui](https://www.briatoriessence.com))
+
+- **Briatori Essence**: Uma perfumaria feita com muito carinho (visite [aqui](https://www.briatoriessence.com))
 
 ## 📬 Conecte-se comigo
 [<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>](https://www.linkedin.com/in/weslley-miranda/)
