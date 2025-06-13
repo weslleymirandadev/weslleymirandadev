@@ -52,7 +52,7 @@ Tecnologias para desenvolvimento de aplicações desktop e programação de sist
 ## Blockchain & Smart Contracts
 Ferramentas para desenvolvimento de contratos inteligentes e aplicações descentralizadas.  
 
-![Blockchain](https://img.icons8.com/?size=48&id=IhWBOFHtv6vx&format=png)![Smart Contracts](https://skillicons.dev/icons?i=solidity)
+![Blockchain](https://img.icons8.com/?size=48&id=IhWBOFHtv6vx&format=png)![Smart Contracts](https://skillicons.dev/icons?i=solidity)  ![Smart Contracts](https://avatars.githubusercontent.com/u/20820676?s=48&v=4)  ![Contracts](https://avatars.githubusercontent.com/u/18492273?s=48&v=4)
 
 ## Testes & Qualidade
 Ferramentas focadas em testes e garantia de qualidade de software.  
