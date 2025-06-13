@@ -1,4 +1,4 @@
-# Olá, eu sou Weslley!👋 Engenheiro Fullstack, Blockchain & IA Developer!
+# Olá, eu sou Weslley!👋 Engenheiro Fullstack, Blockchain & AI Developer!
 
 Engenheiro de Software Fullstack especializado em blockchain (Solidity, DApps, Ethereum) e IA (deep learning, computer vision). Crio soluções web, mobile e desktop, unindo código eficiente e tecnologias de ponta. 🚀
 
