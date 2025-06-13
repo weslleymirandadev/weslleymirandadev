@@ -1,38 +1,46 @@
-# Olá, eu sou Weslley! 👋
+# Olá, eu sou Weslley!👋 Engenheiro Fullstack, Blockchain & IA Developer!
 
-Sou um **Engenheiro de Software Fullstack** apaixonado por criar soluções web, mobile e desktop. Trabalho com desenvolvimento web, APIs e interfaces modernas, sempre buscando aprender e compartilhar conhecimento. 🚀
+Engenheiro de Software Fullstack especializado em blockchain (Solidity, DApps) e IA (deep learning, ). Crio soluções web, mobile e desktop inovadoras, unindo código eficiente e tecnologias de ponta. 🚀
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 ## Frontend Development
-Tecnologias relacionadas ao desenvolvimento de interfaces e experiências do usuário.  
-![Frontend Development](https://skillicons.dev/icons?i=nextjs,react,redux,tailwindcss,threejs,vite)
+Tecnologias relacionadas ao desenvolvimento de interfaces e experiências do usuário.
+
+![Frontend Development](https://skillicons.dev/icons?i=nextjs,vite,react,redux,tailwindcss,styledcomponents,threejs)
 
 ## Backend Development
 Tecnologias para construção de APIs, lógica de servidor e gerenciamento de dados.  
-![Backend Development](https://skillicons.dev/icons?i=nodejs,nestjs,graphql,typescript,python)
+
+![Backend Development](https://skillicons.dev/icons?i=nodejs,nestjs,graphql,typescript,python,webassembly)
 
 ## Banco de Dados
 Soluções para armazenamento e gerenciamento de dados.  
+
 ![Databases](https://skillicons.dev/icons?i=mongodb,postgresql,redis,prisma)
 
 ## DevOps & Infraestrutura
 Ferramentas para implantação, orquestração e gerenciamento de infraestrutura.  
+
 ![DevOps & Infrastructure](https://skillicons.dev/icons?i=aws,docker,kubernetes)
 
 ## Machine Learning & Visão Computacional
 Bibliotecas e frameworks para inteligência artificial, aprendizado de máquina e processamento de imagens.  
+
 ![Machine Learning & Computer Vision](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv)
 
 ## Desktop & Sistemas
 Tecnologias para desenvolvimento de aplicações desktop e programação de sistemas.  
+
 ![Desktop & Systems](https://skillicons.dev/icons?i=electron,c,rust)
 
 ## Blockchain & Smart Contracts
 Ferramentas para desenvolvimento de contratos inteligentes e aplicações descentralizadas.  
+
 ![Blockchain & Smart Contracts](https://skillicons.dev/icons?i=solidity)
 
 ## Testes & Qualidade
 Ferramentas focadas em testes e garantia de qualidade de software.  
+
 ![Testing & Quality](https://skillicons.dev/icons?i=vitest,jest)
 
 ## 🌟 Sobre Mim
