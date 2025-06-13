@@ -46,7 +46,7 @@ Bibliotecas e frameworks para inteligência artificial, aprendizado de máquina 
 ![Machine Learning & Computer Vision](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv)
 
 ## Desktop & Sistemas
-Tecnologias para desenvolvimento de aplicações desktop e programação de sistemas (Electron.js, C, Rust).  
+Tecnologias para desenvolvimento de aplicações desktop e programação de sistemas (Electron.js, C e Rust).  
 
 ![Desktop & Systems](https://skillicons.dev/icons?i=electron,c,rust)
 
