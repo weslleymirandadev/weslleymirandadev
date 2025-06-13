@@ -2,6 +2,22 @@
 
 Engenheiro de Software Fullstack especializado em blockchain (Solidity, DApps) e IA (deep learning, ). Crio soluções web, mobile e desktop inovadoras, unindo código eficiente e tecnologias de ponta. 🚀
 
+## 🌟 Sobre Mim
+- 🔭 Atualmente desenvolvendo projetos em Next.js
+- 🌱 Aprendendo Solidity (Web3)
+- 💡 Apaixonado por código, robótica e elétrica
+- 📫 Contato: [contato@weslleymiranda.dev](mailto:seu.email@example.com)
+
+## 🏆 Projetos em Destaque
+> Veja todos no [meu portifólio](https://weslleymiranda.dev)!
+- **[Briatori Essence]**: Uma perfumaria feita com muito carinho (visite [aqui](https://www.briatoriessence.com))
+
+## 📬 Conecte-se comigo
+[<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>](https://www.linkedin.com/in/weslley-miranda/)
+
+
+---
+
 # 🛠 Tech Stack
 ## Frontend Development
 Tecnologias relacionadas ao desenvolvimento de interfaces e experiências do usuário.
@@ -43,19 +59,6 @@ Ferramentas focadas em testes e garantia de qualidade de software.
 
 ![Testing & Quality](https://skillicons.dev/icons?i=vitest,jest)
 
-## 🌟 Sobre Mim
-- 🔭 Atualmente desenvolvendo projetos em Next.js
-- 🌱 Aprendendo Solidity (Web3)
-- 💡 Apaixonado por código, robótica e elétrica
-- 📫 Contato: [contato@weslleymiranda.dev](mailto:seu.email@example.com)
-
 ## 📊 Estatísticas
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=weslleymirandadev&show_icons=true&theme=chartreuse-dark)
-
-## 🏆 Projetos em Destaque
-> Veja todos no [meu portifólio](https://weslleymiranda.dev)!
-- **[Briatori Essence]**: Uma perfumaria feita com muito carinho (visite [aqui](https://www.briatoriessence.com))
-
-## 📬 Conecte-se comigo
-[<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>](https://www.linkedin.com/in/weslley-miranda/)
 
