@@ -49,9 +49,6 @@ Ferramentas focadas em testes e garantia de qualidade de software.
 - 💡 Apaixonado por código, robótica e elétrica
 - 📫 Contato: [contato@weslleymiranda.dev](mailto:seu.email@example.com)
 
-## 🔥 Streak
-![Streak](https://github-readme-streak-stats-eight.vercel.app/?user=weslleymirandadev&theme=chartreuse-dark)
-
 ## 📊 Estatísticas
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=weslleymirandadev&show_icons=true&theme=chartreuse-dark)
 
