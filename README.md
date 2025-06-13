@@ -21,42 +21,42 @@ Engenheiro de Software Fullstack especializado em blockchain (Solidity, DApps, E
 
 # 🛠 Tech Stack
 ## Frontend Development
-Tecnologias relacionadas ao desenvolvimento de interfaces e experiências do usuário.
+Tecnologias relacionadas ao desenvolvimento de interfaces e experiências do usuário (Next.js, Vite.js, React.js, Redux.js, Three.js, TailwindCSS e styled-components).
 
-![Frontend Development](https://skillicons.dev/icons?i=nextjs,vite,react,redux,tailwindcss,styledcomponents,threejs)
+![Frontend Development](https://skillicons.dev/icons?i=nextjs,vite,react,redux,threejs,tailwindcss,styledcomponents)
 
 ## Backend Development
-Tecnologias para construção de APIs, lógica de servidor e gerenciamento de dados.  
+Tecnologias para construção de APIs, lógica de servidor e gerenciamento de dados (Node.js, Nest.js, GraphQL, Typescript, Python e WebAssembly).  
 
 ![Backend Development](https://skillicons.dev/icons?i=nodejs,nestjs,graphql,typescript,python,webassembly)
 
 ## Banco de Dados
-Soluções para armazenamento e gerenciamento de dados.  
+Soluções para armazenamento e gerenciamento de dados (MongoDB, PostgreSQL, Redis e Prisma).
 
 ![Databases](https://skillicons.dev/icons?i=mongodb,postgresql,redis,prisma)
 
 ## DevOps & Infraestrutura
-Ferramentas para implantação, orquestração e gerenciamento de infraestrutura.  
+Ferramentas para implantação, orquestração e gerenciamento de infraestrutura (AWS, Docker e Kubernetes).  
 
 ![DevOps & Infrastructure](https://skillicons.dev/icons?i=aws,docker,kubernetes)
 
 ## Machine Learning & Visão Computacional
-Bibliotecas e frameworks para inteligência artificial, aprendizado de máquina e processamento de imagens.  
+Bibliotecas e frameworks para inteligência artificial, aprendizado de máquina e processamento de imagens (Pytorch, Tensorflow, Scikit-learn e OpenCV).  
 
 ![Machine Learning & Computer Vision](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv)
 
 ## Desktop & Sistemas
-Tecnologias para desenvolvimento de aplicações desktop e programação de sistemas.  
+Tecnologias para desenvolvimento de aplicações desktop e programação de sistemas (Electron.js, C, Rust).  
 
 ![Desktop & Systems](https://skillicons.dev/icons?i=electron,c,rust)
 
 ## Blockchain & Smart Contracts
-Ferramentas para desenvolvimento de contratos inteligentes e aplicações descentralizadas.  
+Ferramentas para desenvolvimento de contratos inteligentes e aplicações descentralizadas (Ethereum, Solidity, OpenZeppelin e Ethers.js).  
 
 ![Blockchain](https://img.icons8.com/?size=48&id=IhWBOFHtv6vx&format=png)![Smart Contracts](https://skillicons.dev/icons?i=solidity)  ![Smart Contracts](https://avatars.githubusercontent.com/u/20820676?s=48&v=4)  ![Contracts](https://avatars.githubusercontent.com/u/18492273?s=48&v=4)
 
 ## Testes & Qualidade
-Ferramentas focadas em testes e garantia de qualidade de software.  
+Ferramentas focadas em testes e garantia de qualidade de software (Vitest e Jest).  
 
 ![Testing & Quality](https://skillicons.dev/icons?i=vitest,jest)
 
