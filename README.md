@@ -53,7 +53,8 @@ Tecnologias para desenvolvimento de aplicações desktop e programação de sist
 ## Blockchain & Smart Contracts
 Ferramentas para desenvolvimento de contratos inteligentes e aplicações descentralizadas (Ethereum, Solidity, OpenZeppelin e Ethers.js).  
 
-![Blockchain](https://img.icons8.com/?size=48&id=IhWBOFHtv6vx&format=png)![Smart Contracts](https://skillicons.dev/icons?i=solidity)  ![Smart Contracts](https://avatars.githubusercontent.com/u/20820676?s=48&v=4)  ![Contracts](https://avatars.githubusercontent.com/u/18492273?s=48&v=4)
+![Blockchain](https://img.icons8.com/?size=48&id=IhWBOFHtv6vx&format=png)![Smart Contracts](https://skillicons.dev/icons?i=solidity)  ![Smart Contracts](https://avatars.githubusercontent.com/u/20820676?s=48&v=4)  ![Contracts](https://avatars.githubusercontent.com/u/18492273?s=48&v=4)  <img alt="Hardhat" heigh="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" />
+
 
 ## Testes & Qualidade
 Ferramentas focadas em testes e garantia de qualidade de software (Vitest e Jest).  
