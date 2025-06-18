@@ -3,7 +3,7 @@
 Engenheiro de Software Fullstack especializado em blockchain (Solidity, DApps, Ethereum) e IA (deep learning, computer vision). Crio soluções web, mobile e desktop, unindo código eficiente e tecnologias de ponta. 🚀
 
 ## 🌟 Sobre Mim
-- 🔭 Atualmente construindo tech na [AI4WEB3](https://ai4web3.net)!
+- 🔭 Atualmente construindo tech na [AI4Web3](https://ai4web3.net)!
 - 🌱 Aprendendo sobre Layer 2 solutions (Optimism, Arbitrum) e fine-tuning de modelos de IA com Hugging Face
 - 💡 Apaixonado por Software e Hardware
 - 📫 Contato: [contato@weslleymiranda.dev](mailto:seu.email@example.com)
