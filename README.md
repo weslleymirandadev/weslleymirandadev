@@ -1,6 +1,6 @@
 # Olá, eu sou Weslley!👋 Engenheiro Fullstack, Blockchain & AI Developer!
 
-Engenheiro de Software Fullstack especializado em blockchain (Solidity, DApps, Ethereum) e IA (deep learning, computer vision). Crio soluções web, mobile e desktop, unindo código eficiente e tecnologias de ponta. 🚀
+Engenheiro de Software Fullstack especializado em blockchain (DApps, Ethereum, Solana, Polkadot) e IA (deep learning, computer vision). Crio soluções web, mobile e desktop, unindo código eficiente e tecnologias de ponta. 🚀
 
 ## 🌟 Sobre Mim
 - 🔭 Atualmente construindo tech na [AI4Web3](https://ai4web3.net)!
@@ -51,9 +51,9 @@ Tecnologias para desenvolvimento de aplicações desktop e programação de sist
 ![Desktop & Systems](https://skillicons.dev/icons?i=electron,c,rust)
 
 ## Blockchain & Smart Contracts
-Ferramentas para desenvolvimento de contratos inteligentes e aplicações descentralizadas (Ethereum, Solidity, OpenZeppelin, Ethers.js e Hardhat).  
+Ferramentas para desenvolvimento de contratos inteligentes e aplicações descentralizadas (Ethereum, Solidity, OpenZeppelin, Ethers.js, Hardhat, Solana e Anchor).  
 
-![Blockchain](https://img.icons8.com/?size=48&id=IhWBOFHtv6vx&format=png)![Smart Contracts](https://skillicons.dev/icons?i=solidity)  ![Smart Contracts](https://avatars.githubusercontent.com/u/20820676?s=48&v=4)  ![Contracts](https://avatars.githubusercontent.com/u/18492273?s=48&v=4)  <img alt="Hardhat" heigh="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" />
+![Blockchain](https://img.icons8.com/?size=48&id=IhWBOFHtv6vx&format=png)![Smart Contracts](https://skillicons.dev/icons?i=solidity)  ![Smart Contracts](https://avatars.githubusercontent.com/u/20820676?s=48&v=4)  ![Contracts](https://avatars.githubusercontent.com/u/18492273?s=48&v=4)  <img alt="Hardhat" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" /> <img widht="48" height="48" alt="Solana" src="https://avatars.githubusercontent.com/u/58729655?s=48&v=4" /> <img alt="Anchor" width="48" height="48" src="https://camo.githubusercontent.com/590ccfb4e70a27673047ee879ed409981c05b2da403e60b4aaa7961ccdb46001/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f46565556614f3958454141756c764b3f666f726d61743d706e67266e616d653d736d616c6c" />
 
 
 ## Testes & Qualidade
