@@ -57,9 +57,9 @@ Ferramentas para desenvolvimento de contratos inteligentes e aplicações descen
 
 
 ## Testes & Qualidade
-Ferramentas focadas em testes e garantia de qualidade de software (Vitest e Jest).  
+Ferramentas focadas em testes e garantia de qualidade de software (Vitest, Jest, Mocha e Chai).  
 
-![Testing & Quality](https://skillicons.dev/icons?i=vitest,jest)
+![Testing & Quality](https://skillicons.dev/icons?i=vitest,jest) ![Mocha](https://avatars.githubusercontent.com/u/8770005?s=48&v=4) ![Chai](https://avatars.githubusercontent.com/u/1515293?s=48&v=4)
 
 ## 📊 Estatísticas
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=weslleymirandadev&show_icons=true&theme=chartreuse-dark)
