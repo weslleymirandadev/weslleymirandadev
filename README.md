@@ -38,7 +38,7 @@ Soluções para armazenamento e gerenciamento de dados (MongoDB, PostgreSQL, Red
 ## DevOps & Infraestrutura
 Ferramentas para implantação, orquestração e gerenciamento de infraestrutura (AWS, Docker e Kubernetes).  
 
-![DevOps & Infrastructure](https://skillicons.dev/icons?i=aws,docker,kubernetes)
+![DevOps & Infrastructure](https://skillicons.dev/icons?i=aws,docker,kubernetes,linux)
 
 ## Deep Learning & Visão Computacional
 Bibliotecas e frameworks para inteligência artificial, aprendizado de máquina e processamento de imagens (Pytorch, Scikit-learn, OpenCV e HuggingFace).  
