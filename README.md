@@ -41,9 +41,9 @@ Ferramentas para implantação, orquestração e gerenciamento de infraestrutura
 ![DevOps & Infrastructure](https://skillicons.dev/icons?i=aws,docker,kubernetes)
 
 ## Deep Learning & Visão Computacional
-Bibliotecas e frameworks para inteligência artificial, aprendizado de máquina e processamento de imagens (Pytorch, Tensorflow, Scikit-learn, OpenCV e HuggingFace).  
+Bibliotecas e frameworks para inteligência artificial, aprendizado de máquina e processamento de imagens (Pytorch, Scikit-learn, OpenCV e HuggingFace).  
 
-![Machine Learning & Computer Vision](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv)  ![Huggingface](https://avatars.githubusercontent.com/u/25720743?s=48&v=4)
+![Machine Learning & Computer Vision](https://skillicons.dev/icons?i=pytorch,sklearn,opencv)  ![Huggingface](https://avatars.githubusercontent.com/u/25720743?s=48&v=4)
 
 ## Desktop & Sistemas
 Tecnologias para desenvolvimento de aplicações desktop e programação de sistemas (Electron.js, C e Rust).  
