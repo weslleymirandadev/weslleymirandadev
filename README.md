@@ -9,7 +9,6 @@ Engenheiro de Software Fullstack especializado em blockchain (DApps, Ethereum, S
 - 📫 Contato: [contato@weslleymiranda.dev](mailto:seu.email@example.com)
 
 ## 🏆 Projetos em Destaque
-> Veja todos no [meu portifólio](https://weslleymiranda.dev)!
 
 - **Briatori Essence**: Uma perfumaria feita com muito carinho (visite [aqui](https://www.briatoriessence.com))
 
