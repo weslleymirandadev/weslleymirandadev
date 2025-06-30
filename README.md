@@ -20,9 +20,10 @@ Engenheiro de Software Fullstack especializado em blockchain (DApps, Ethereum, S
 
 # 🛠 Tech Stack
 ## Frontend Development
-Tecnologias relacionadas ao desenvolvimento de interfaces e experiências do usuário (Next.js, Vite.js, React.js, Redux.js, Three.js, TailwindCSS e styled-components).
+Tecnologias relacionadas ao desenvolvimento de interfaces e experiências do usuário (Next.js, Vite.js, React.js, Redux.js, Three.js, TailwindCSS, styled-components, framer-motion e gsap.js).
 
-![Frontend Development](https://skillicons.dev/icons?i=nextjs,vite,react,redux,threejs,tailwindcss,styledcomponents)
+![Frontend Development](https://skillicons.dev/icons?i=nextjs,vite,react,redux,threejs,tailwindcss,styledcomponents) <img 
+alt="motion" src="https://avatars.githubusercontent.com/u/84441432?s=48&v=4"> <img alt="GSAP" src="https://avatars.githubusercontent.com/u/2386673?s=48&v=4" />
 
 ## Backend Development
 Tecnologias para construção de APIs, lógica de servidor e gerenciamento de dados (Node.js, Nest.js, GraphQL, Typescript, Python e WebAssembly).  
