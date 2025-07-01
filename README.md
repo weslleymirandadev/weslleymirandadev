@@ -10,7 +10,7 @@ Engenheiro de Software Fullstack especializado em blockchain (DApps, Ethereum, S
 
 ## 🏆 Projetos em Destaque
 
-- **Briatori Essence**: Uma perfumaria feita com muito carinho (visite [aqui](https://www.briatoriessence.com))
+- **Briatori Essence**: Uma perfumaria com produtos excepcionais (visite [aqui](https://www.briatoriessence.com))
 
 ## 📬 Conecte-se comigo
 [<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>](https://www.linkedin.com/in/weslley-miranda/)
