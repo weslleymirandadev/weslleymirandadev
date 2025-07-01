@@ -22,7 +22,7 @@ Engenheiro de Software Fullstack especializado em blockchain (DApps, Ethereum, S
 ## Frontend Development
 Tecnologias relacionadas ao desenvolvimento de interfaces e experiências do usuário (Next.js, Vite.js, React.js, Redux.js, Three.js, TailwindCSS, styled-components, framer-motion, GSAP e React Bits).
 
-![Frontend Development](https://skillicons.dev/icons?i=nextjs,vite,react,redux,threejs,tailwindcss,styledcomponents) <img 
+![Frontend Development](https://skillicons.dev/icons?i=nextjs,vite,electron,react,redux,threejs,tailwindcss,styledcomponents) <img 
 alt="motion" src="https://avatars.githubusercontent.com/u/84441432?s=48&v=4"> <img alt="GSAP" src="https://avatars.githubusercontent.com/u/2386673?s=48&v=4" /> <img alt="react-bits" style="width: 48px; height: 48px" src="https://github.com/user-attachments/assets/6e4e9d4e-7227-49ed-b2bc-5ae9b80a2e53" />
 
 
@@ -46,15 +46,10 @@ Bibliotecas e frameworks para inteligência artificial, aprendizado de máquina 
 
 ![Machine Learning & Computer Vision](https://skillicons.dev/icons?i=pytorch,sklearn,opencv)  ![Huggingface](https://avatars.githubusercontent.com/u/25720743?s=48&v=4)
 
-## Desktop & Sistemas
-Tecnologias para desenvolvimento de aplicações desktop e programação de sistemas (Electron.js, C e Rust).  
-
-![Desktop & Systems](https://skillicons.dev/icons?i=electron,c,rust)
-
 ## Blockchain & Smart Contracts
-Ferramentas para desenvolvimento de contratos inteligentes e aplicações descentralizadas (Ethereum, Solidity, OpenZeppelin, Ethers.js, Hardhat, Solana e Anchor).  
+Ferramentas para desenvolvimento de contratos inteligentes e aplicações descentralizadas (Ethereum, Solidity, Rust, OpenZeppelin, Ethers.js, Hardhat, Solana e Anchor).  
 
-![Blockchain](https://img.icons8.com/?size=48&id=IhWBOFHtv6vx&format=png)![Smart Contracts](https://skillicons.dev/icons?i=solidity)  ![Smart Contracts](https://avatars.githubusercontent.com/u/20820676?s=48&v=4)  ![Contracts](https://avatars.githubusercontent.com/u/18492273?s=48&v=4)  <img alt="Hardhat" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" /> <img widht="48" height="48" alt="Solana" src="https://avatars.githubusercontent.com/u/58729655?s=48&v=4" /> <img alt="Anchor" width="48" height="48" src="https://camo.githubusercontent.com/590ccfb4e70a27673047ee879ed409981c05b2da403e60b4aaa7961ccdb46001/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f46565556614f3958454141756c764b3f666f726d61743d706e67266e616d653d736d616c6c" />
+![Blockchain](https://img.icons8.com/?size=48&id=IhWBOFHtv6vx&format=png)![Smart Contracts](https://skillicons.dev/icons?i=solidity,rust)  ![Smart Contracts](https://avatars.githubusercontent.com/u/20820676?s=48&v=4)  ![Contracts](https://avatars.githubusercontent.com/u/18492273?s=48&v=4)  <img alt="Hardhat" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" /> <img widht="48" height="48" alt="Solana" src="https://avatars.githubusercontent.com/u/58729655?s=48&v=4" /> <img alt="Anchor" width="48" height="48" src="https://camo.githubusercontent.com/590ccfb4e70a27673047ee879ed409981c05b2da403e60b4aaa7961ccdb46001/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f46565556614f3958454141756c764b3f666f726d61743d706e67266e616d653d736d616c6c" />
 
 
 ## Testes & Qualidade
