@@ -1,10 +1,10 @@
-# Olá, eu sou Weslley!👋 Engenheiro Fullstack, Blockchain & AI Developer!
+# Olá, eu sou Weslley!👋 Engenheiro de Software Fullstack!
 
-Engenheiro de Software Fullstack especializado em blockchain (DApps, Ethereum, Solana, Polkadot) e IA (deep learning, computer vision). Crio soluções web, mobile e desktop, unindo código eficiente e tecnologias de ponta. 🚀
+Engenheiro de Software Fullstack especializado em Frontend. Crio soluções web, mobile e desktop, unindo código eficiente e tecnologias de ponta. 🚀
 
 ## 🌟 Sobre Mim
 - 🔭 Atualmente construindo tech na [AI4Web3](https://ai4web3.net)!
-- 🌱 Aprendendo sobre Layer 2 solutions (Optimism, Arbitrum) e fine-tuning de modelos de IA com Hugging Face
+- 🌱 Aprendendo sobre GraphQL
 - 💡 Apaixonado por Software e Hardware
 - 📫 Contato: [contato@weslleymiranda.dev](mailto:seu.email@example.com)
 
@@ -41,22 +41,7 @@ Ferramentas para implantação, orquestração e gerenciamento de infraestrutura
 
 ![DevOps & Infrastructure](https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,nginx)
 
-## Deep Learning & Visão Computacional
-Bibliotecas e frameworks para inteligência artificial, aprendizado de máquina e processamento de imagens (Pytorch, Scikit-learn, OpenCV e HuggingFace).  
-
-![Machine Learning & Computer Vision](https://skillicons.dev/icons?i=pytorch,sklearn,opencv)  ![Huggingface](https://avatars.githubusercontent.com/u/25720743?s=48&v=4)
-
-## Blockchain & Smart Contracts
-Ferramentas para desenvolvimento de contratos inteligentes e aplicações descentralizadas (Ethereum, Solidity, Rust, OpenZeppelin, Ethers.js, Hardhat, Solana e Anchor).  
-
-![Blockchain](https://img.icons8.com/?size=48&id=IhWBOFHtv6vx&format=png)![Smart Contracts](https://skillicons.dev/icons?i=solidity,rust)  ![Smart Contracts](https://avatars.githubusercontent.com/u/20820676?s=48&v=4)  ![Contracts](https://avatars.githubusercontent.com/u/18492273?s=48&v=4)  <img alt="Hardhat" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" /> <img widht="48" height="48" alt="Solana" src="https://avatars.githubusercontent.com/u/58729655?s=48&v=4" /> <img alt="Anchor" width="48" height="48" src="https://camo.githubusercontent.com/590ccfb4e70a27673047ee879ed409981c05b2da403e60b4aaa7961ccdb46001/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f46565556614f3958454141756c764b3f666f726d61743d706e67266e616d653d736d616c6c" />
-
-
 ## Testes & Qualidade
 Ferramentas focadas em testes e garantia de qualidade de software (Vitest, Jest, Mocha, Chai e Playwright).  
 
 ![Testing & Quality](https://skillicons.dev/icons?i=vitest,jest) ![Mocha](https://avatars.githubusercontent.com/u/8770005?s=48&v=4) ![Chai](https://avatars.githubusercontent.com/u/1515293?s=48&v=4) <img alt="playwright" width="54" height="54" src="https://playwright.dev/img/playwright-logo.svg" />
-
-## 📊 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=weslleymirandadev&show_icons=true&theme=chartreuse-dark)
-
