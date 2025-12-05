@@ -45,6 +45,6 @@ Ferramentas para implantação, orquestração e gerenciamento de infraestrutura
 ![DevOps & Infrastructure](https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,nginx)
 
 ## Testes & Qualidade
-Ferramentas focadas em testes e garantia de qualidade de software (Vitest, Jest, Mocha, Chai e Playwright).  
+Ferramentas focadas em testes e garantia de qualidade de software (Vitest, Jest e Playwright).  
 
-![Testing & Quality](https://skillicons.dev/icons?i=vitest,jest) ![Mocha](https://avatars.githubusercontent.com/u/8770005?s=48&v=4) ![Chai](https://avatars.githubusercontent.com/u/1515293?s=48&v=4) <img alt="playwright" width="54" height="54" src="https://playwright.dev/img/playwright-logo.svg" />
+![Testing & Quality](https://skillicons.dev/icons?i=vitest,jest) <img alt="playwright" width="54" height="54" src="https://playwright.dev/img/playwright-logo.svg" />
