@@ -23,7 +23,7 @@ Engenheiro de Software Fullstack especializado em Frontend. Crio soluções web,
 
 # 🛠 Tech Stack
 ## Frontend Development
-Tecnologias relacionadas ao desenvolvimento de interfaces e experiências do usuário (Next.js, Vite.js, Electron.js, React.js, Redux.js, Three.js, TailwindCSS, styled-components, React Native framer-motion, GSAP e React Bits).
+Tecnologias relacionadas ao desenvolvimento de interfaces e experiências do usuário (Next.js, Vite.js, Electron.js, React.js, Redux.js, Three.js, TailwindCSS, styled-components, React Native, framer-motion, GSAP e React Bits).
 
 ![Frontend Development](https://skillicons.dev/icons?i=nextjs,vite,electron,react,redux,threejs,tailwindcss,styledcomponents) 
 <img alt="react-native" style="width: 48px; height: 48px" src="https://github.com/user-attachments/assets/441a9516-25e6-4caf-ac67-899aee7fe62f">
