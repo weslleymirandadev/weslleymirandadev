@@ -11,7 +11,7 @@ Engenheiro de Software Fullstack especializado em Frontend. Crio soluções web,
 ## 🏆 Projetos em Destaque
 
 - **Briatori Essence**: visite [aqui](https://www.briatoriessence.com)
-  - Arquitetura: NextJS 15 (App Router) - Typescript
+  - Arquitetura: NextJS 16 (App Router) - Typescript
   - Integrações: Mercado Pago API - Webhooks
   - Infraestrutura: Cloudinary - Vercel
 
