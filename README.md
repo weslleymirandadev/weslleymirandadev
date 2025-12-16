@@ -3,7 +3,7 @@
 Engenheiro de Software Fullstack especializado em Frontend. Crio soluções web, mobile e desktop, unindo código eficiente e tecnologias de ponta. 🚀
 
 ## 🌟 Sobre Mim
-- 🔭 Atualmente construindo tech na [AI4Web3](https://ai4web3.net)!
+- 🔭 Fundador da [Escola Programação.Dev](https://programacao.dev)!
 - 🌱 Aprendendo sobre GraphQL
 - 💡 Apaixonado por Software e Hardware
 - 📫 Contato: [contato@weslleymiranda.dev](mailto:seu.email@example.com)
