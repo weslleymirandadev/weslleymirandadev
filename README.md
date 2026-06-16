@@ -3,7 +3,7 @@
 Engenheiro de Software Fullstack especializado em Frontend. Crio soluções web, mobile e desktop, unindo código eficiente e tecnologias de ponta. 🚀
 
 ## 🌟 Sobre Mim
-- 🔭 Fundador da [Escola Programação.Dev](https://programacao.dev)!
+- 🔭 Criador da [Linguagem Narval](https://github.com/weslleymirandadev/narval)!
 - 🌱 Aprendendo sobre GraphQL
 - 💡 Apaixonado por Software e Hardware
 - 📫 Contato: [contato@weslleymiranda.dev](mailto:seu.email@example.com)
