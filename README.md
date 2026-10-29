@@ -1,6 +1,6 @@
 # Olá, eu sou Weslley!👋 Engenheiro de Software Fullstack!
 
-Engenheiro de Software Fullstack especializado em Frontend. Crio soluções web, mobile e desktop, unindo código eficiente e tecnologias de ponta. 🚀
+Engenheiro de Software Fullstack especializado em Frontend. Crio soluções web, mobile e desktop, unindo código eficiente, tecnologias de ponta e IA. 🚀
 
 ## 🌟 Sobre Mim
 - 🔭 Criador da [Linguagem Narval](https://github.com/weslleymirandadev/narval)!
